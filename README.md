@@ -9,4 +9,4 @@ A responsive form built with HTML and CSS.
 
 ## Preview
 
-![App Screenshot](screenshot.png)
+![App Screenshot](Screenshot.png)
