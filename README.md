@@ -6,3 +6,7 @@ A responsive form built with HTML and CSS.
 - Clean UI
 - Custom radio buttons
 - Responsive layout
+
+## Preview
+
+![App Screenshot](screenshot.png)
